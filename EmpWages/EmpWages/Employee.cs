@@ -12,5 +12,10 @@ namespace EmpWages
         {
             Console.WriteLine("Attendance working of employee");
         }
+        public void DailyWage()
+        {
+            Console.WriteLine("Daily wages of employee");
+        }
     }
+
 }
